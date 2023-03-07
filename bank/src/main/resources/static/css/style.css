@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-size: cover;
+    background-image: url("../images/background.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#sample-text-card{
+    margin:0px 100px;
+    font-family: comfortaa;
+    
+}
+
+#sample-text-card h1{
+    font-size: 65px;
+    color: white;
+    
+}
+
+#sample-text-card h5{
+    
+    color: white;
+    
+}
+
+#sample-text-card p{
+    font-size: 14px;
+    color: white;
+}
+.button-wrapper a{
+    padding: 15px;
+    width: 200px;
+    color: white;
+    box-shadow: 0px 3px 6px rgb(0, 14, 53);
+    
+}
+
+.register{
+    margin-right: 7px;
+    background-color: #FF4E00;
+    border: 1px solid #882B00;
+    
+}
+
+.login{
+    background-color: #FFB114;
+    border: 1px solid #543800;
+    
+}
+.signup{
+    margin-left: 1000px;
+    position: absolute;
+}
+
+.card .form-control{
+    margin: 10px 0px;
+    box-shadow: 0px 3px 6px rgb(0,14,53);
+}
+
+small i{
+    color: #FFB114;
+}
+.card{
+    font-family: comfortaa;
+}
+.card .card-title{
+    color: white;
+}
+.card button{
+    background-color: #FF4E00;
+    border: 1px solid #882B00;
+    color: white;
+    width: 200px;
+    margin: 10px 0px;
+    box-shadow: 0px 3px 6px rgb(0,14,53);
+
+}
