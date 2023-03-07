@@ -1,3 +1,3 @@
-# Course File Repository for Introduction to Web Development
+# Projet d'une application web d'une banque
 
-The files in this repository are provided for use in the online course, Introduction to Web Development, offered through Wiley Edge, a Wiley brand.
+Ce projet a été developpé avec Spring boot, Java, html, css, JavaScript, JPA, JSP
